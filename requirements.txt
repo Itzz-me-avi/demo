@@ -1,8 +1,7 @@
+python==3.9
 fastapi 
 uvicorn 
 python-multipart 
 PyMuPDF 
 python-docx 
 spacy
-en_core_web_sm
-
