@@ -4,4 +4,5 @@ python-multipart
 PyMuPDF 
 python-docx 
 spacy
-python -m spacy download en_core_web_sm
+en_core_web_sm
+
